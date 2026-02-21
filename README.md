@@ -1,23 +1,90 @@
-<h1 align="center">Hi , I'm Deepak B Gowda</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Deepak B Gowda</h1>
+<h3 align="center">Full Stack Developer | AI Systems Builder | Performance-Focused Engineer</h3>
 
-- 🔭 I’m currently working on **AI-Based-Audio-Analysis Project**
-
-- 🌱 I’m currently learning **React, GraphQL, Data Structures**
-
-- 📫 How to reach me **deepakbgowda009@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deepakbgowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakbgowda" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/560050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="560050" height="30" width="40" /></a>
+<p align="center">
+Building intelligent systems at the intersection of AI, real-time processing, and scalable web applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbgowda07&show_icons=true&locale=en&layout=compact" alt="deepakbgowda07" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakbgowda07&show_icons=true&locale=en" alt="deepakbgowda07" /></p>
+- 🎓 Information Science & Engineering Student  
+- 🧠 Strong in Data Structures & Algorithms  
+- 🤖 Building AI-powered systems using Whisper, Embeddings & RAG  
+- 📊 Focused on real-time analytics & investment intelligence platforms  
+- ⚡ Obsessed with performance benchmarking and system optimization  
+- 🎯 Long-term goal: Tech Leadership + MBA + Building Scalable Ventures  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakbgowda07&" alt="deepakbgowda07" /></p>
+---
+
+## 🧠 Current Focus
+
+- 🔬 AI-Based Audio Analysis (Speech Segmentation + Embedding Optimization)
+- 📈 AI Investment Intelligence Platform (News + Sentiment + Portfolio Insights)
+- ⚙️ Model Benchmarking (Latency, GPU usage, Accuracy trade-offs)
+- 🏗️ Scalable Full Stack Architectures using Next.js + Prisma
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Core Programming
+Java • Python • C++ • JavaScript
+
+### 🌐 Full Stack
+Next.js • React • Node.js • Express • Prisma • Clerk • REST APIs
+
+### 🤖 AI / ML
+Whisper (STT) • Sentence Transformers (MiniLM, MPNet)  
+RAG Systems • Vector Databases (ChromaDB)  
+Scikit-Learn • PyTorch • TensorFlow
+
+### 🗄️ Databases
+MongoDB • MySQL • PostgreSQL
+
+### ⚙️ Tools & Infrastructure
+Docker • Git • Google Colab • Streamlit • n8n Automation
+
+---
+
+## 📊 Engineering Philosophy
+
+- Measure before optimizing  
+- Build modular systems  
+- Benchmark everything  
+- Design for scalability  
+- Prefer clarity over complexity  
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakbgowda07&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbgowda07&layout=compact&theme=default&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakbgowda07&theme=default&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/deepakbgowda" target="_blank">
+LinkedIn
+</a> • 
+<a href="https://www.topcoder.com/members/560050" target="_blank">
+TopCoder
+</a> • 
+deepakbgowda009@gmail.com
+</p>
+
+---
+
+<p align="center">
+<em>“Build systems. Think deeply. Optimize everything.”</em>
+</p>
