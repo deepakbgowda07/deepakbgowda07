@@ -12,9 +12,7 @@ Building intelligent systems at the intersection of AI, real-time processing, an
 - 🎓 Information Science & Engineering Student  
 - 🧠 Strong in Data Structures & Algorithms  
 - 🤖 Building AI-powered systems using Whisper, Embeddings & RAG  
-- 📊 Focused on real-time analytics & investment intelligence platforms  
-- ⚡ Obsessed with performance benchmarking and system optimization  
-- 🎯 Long-term goal: Tech Leadership + MBA + Building Scalable Ventures  
+- 📊 Focused on real-time analytics & investment intelligence platforms   
 
 ---
 
@@ -58,16 +56,7 @@ Docker • Git • Google Colab • Streamlit • n8n Automation
 
 ---
 
-## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakbgowda07&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbgowda07&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakbgowda07&theme=default&hide_border=true"/>
-</p>
 
 ---
 
@@ -76,9 +65,6 @@ Docker • Git • Google Colab • Streamlit • n8n Automation
 <p align="left">
 <a href="https://linkedin.com/in/deepakbgowda" target="_blank">
 LinkedIn
-</a> • 
-<a href="https://www.topcoder.com/members/560050" target="_blank">
-TopCoder
 </a> • 
 deepakbgowda009@gmail.com
 </p>
