@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Deepak B Gowda</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **AI-Based_Audio_Analysis Prohect**
+- 🔭 I’m currently working on **AI-Based-Audio-Analysis Project**
 
 - 🌱 I’m currently learning **React, GraphQL, Data Structures**
 
